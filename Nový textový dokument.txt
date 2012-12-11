@@ -2,3 +2,4 @@ empty file
 editovanie cez browser
 editovanie na localmachine
 editovanie cez browser 2
+editovanie na localmachine 2
