@@ -4,5 +4,5 @@ treti riadok
 
 zmena
 stvrty riadok
-2zmena
-piaty riadok
+
+2 zmena riadok piaty
