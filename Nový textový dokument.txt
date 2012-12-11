@@ -1,2 +1,3 @@
 empty file
 editovanie cez browser
+editovanie na localmachine
