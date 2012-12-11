@@ -5,3 +5,4 @@ editovanie cez browser 2
 editovanie na localmachine 2
 editovanie cez browser 3A
 editovanie cez browser 3B
+editovanie na localmachine 3
