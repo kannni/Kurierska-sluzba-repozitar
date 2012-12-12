@@ -9,3 +9,4 @@ editovanie na localmachine 3B
 editovanie na localmachine 3A
 
 branch 1
+Martin
